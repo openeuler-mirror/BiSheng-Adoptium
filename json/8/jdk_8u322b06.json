@@ -20,8 +20,8 @@
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "BiSheng",
-          "aqavit_results_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b06/OpenJDK8U-jdk_x64_linux_hotspot_8u302b06.tap.zip",
-          "tck_affidavit_link": "https://adoptium.net/temurin/tck-affidavit/"
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jdk-8u322b06-linux-aarch64.tap.zip",
+          "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         },
         {
           "os": "linux",
@@ -38,8 +38,8 @@
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "BiSheng",
-          "aqavit_results_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b06/OpenJDK8U-jdk_x64_linux_hotspot_8u302b06.tap.zip",
-          "tck_affidavit_link": "https://adoptium.net/temurin/tck-affidavit/"
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jdk-8u322b06-linux-x64.tap.zip",
+          "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         }
       ],
       "vendor": "Huawei",
