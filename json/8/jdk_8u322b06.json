@@ -52,5 +52,6 @@
         "optional": null,
         "openjdk_version": "1.8.0_322-b06"
       }
-   }
+    }
+  ]
 }
