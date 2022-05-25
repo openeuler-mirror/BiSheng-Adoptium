@@ -48,7 +48,7 @@
         "security": 322,
         "patch": null,
         "pre": null,
-        "build": 8,
+        "build": 6,
         "optional": null,
         "openjdk_version": "1.8.0_322-b06"
       }
