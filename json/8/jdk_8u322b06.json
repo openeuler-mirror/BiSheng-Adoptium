@@ -1,7 +1,7 @@
 {
   "releases": [
     {
-      "release_link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/",
+      "release_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/",
       "release_name": "jdk8u322-b06",
       "last_updated_timestamp": "2022-03-23T12:12:00Z",
       "binaries": [
@@ -12,15 +12,15 @@
           "jvm_impl": "hotspot",
           "package": {
             "name": "bisheng-jdk-8u322-linux-aarch64.tar.gz",
-            "link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-aarch64.tar.gz",
+            "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-aarch64.tar.gz",
             "sha265sum": "2116da5615ae1f246d44c4441ef9bc0969f0b17bb1bb9abdf343b9f589f0fdb8",
-            "sha256sum_link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-aarch64.tar.gz.sha256"
+            "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-aarch64.tar.gz.sha256"
           },
           "timestamp": "2022-03-23T12:12:00Z",
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "bisheng",
-          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jdk-8u322b06-linux-aarch64.tap.zip",
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/8u322/bisheng-jdk-8u322b06-linux-aarch64.tap.zip",
           "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         }, {
           "os": "linux",
@@ -29,15 +29,15 @@
           "jvm_impl": "hotspot",
           "package": {
             "name": "bisheng-jre-8u322-linux-aarch64.tar.gz",
-            "link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-aarch64.tar.gz",
+            "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-aarch64.tar.gz",
             "sha265sum": "cd2851f34b026c880156ac5d0ce86cc4e0944d11cb79a29ff316f4aa7218e6ef",
-            "sha256sum_link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-aarch64.tar.gz.sha256"
+            "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-aarch64.tar.gz.sha256"
           },
           "timestamp": "2022-03-23T12:12:00Z",
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "bisheng",
-          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jre-8u322b06-linux-aarch64.tap.zip",
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/8u322/bisheng-jre-8u322b06-linux-aarch64.tap.zip",
           "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         }, {
           "os": "linux",
@@ -46,15 +46,15 @@
           "jvm_impl": "hotspot",
           "package": {
             "name": "bisheng-jdk-8u322-linux-x64.tar.gz",
-            "link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-x64.tar.gz",
+            "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-x64.tar.gz",
             "sha265sum": "3ce11898ca353874b86b0577bdcbdc5eb4da4b96fee88f2d37130385327ae842",
-            "sha256sum_link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-x64.tar.gz.sha256"
+            "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u322-linux-x64.tar.gz.sha256"
           },
           "timestamp": "2022-03-23T12:12:00Z",
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "bisheng",
-          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jdk-8u322b06-linux-x64.tap.zip",
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/8u322/bisheng-jdk-8u322b06-linux-x64.tap.zip",
           "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         }, {
           "os": "linux",
@@ -63,15 +63,15 @@
           "jvm_impl": "hotspot",
           "package": {
             "name": "bisheng-jre-8u322-linux-x64.tar.gz",
-            "link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-x64.tar.gz",
+            "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-x64.tar.gz",
             "sha265sum": "26d1c5ed5175a70a18f9eca91381b7a90362669827873b0edf0cbc5079a1ce7b",
-            "sha256sum_link": "https://mirror.iscas.ac.cn/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-x64.tar.gz.sha256"
+            "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u322-linux-x64.tar.gz.sha256"
           },
           "timestamp": "2022-03-23T12:12:00Z",
           "scm_ref": "jdk8u322-b06",
           "openjdk_scm_ref": "jdk8u322-b06",
           "distribution": "bisheng",
-          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/bisheng-jre-8u322b06-linux-x64.tap.zip",
+          "aqavit_results_link": "https://gitee.com/openeuler/BiSheng-Adoptium/blob/master/AQAvit/8/8u322/bisheng-jre-8u322b06-linux-x64.tap.zip",
           "tck_affidavit_link": "https://www.openeuler.org/en/other/projects/bishengjdk/tck-affidavit/"
         }
       ],
