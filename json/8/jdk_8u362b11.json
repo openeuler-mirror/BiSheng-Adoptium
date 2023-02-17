@@ -13,7 +13,7 @@
           "package": {
             "name": "bisheng-jdk-8u362-linux-aarch64.tar.gz",
             "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u362-linux-aarch64.tar.gz",
-            "sha265sum": "98940ef8e895f55bdf680eef80c2fdb0b31cd08f22d95adb113296165d0d9247",
+            "sha265sum": "e34f9a4654b5b9ec75e9673c775a67d5a5d33ab10d1a814a9ed83f5984ca3a23",
             "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u362-linux-aarch64.tar.gz.sha256"
           },
           "timestamp": "2023-02-17T17:05:00Z",
@@ -30,7 +30,7 @@
           "package": {
             "name": "bisheng-jre-8u362-linux-aarch64.tar.gz",
             "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u362-linux-aarch64.tar.gz",
-            "sha265sum": "42f4e8bd8c634b018a5e277a7e3a950d96a6e7f7f0f06a05e94ee4451b5816a0",
+            "sha265sum": "d5a4cdf545848a0287c3f9e24020b5ab9365250e34d54e4fdf9ffb9e7cff4927",
             "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u362-linux-aarch64.tar.gz.sha256"
           },
           "timestamp": "2023-02-17T17:05:00Z",
@@ -47,7 +47,7 @@
           "package": {
             "name": "bisheng-jdk-8u362-linux-x64.tar.gz",
             "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u362-linux-x64.tar.gz",
-            "sha265sum": "c7442f2b08c74fa46feb0aa00c9a95fa442586fb4068f8682a19e9b09ddd7003",
+            "sha265sum": "6b3efdcd4108492ab283d7bb236e9423fe564ed166e3b42e4b5d213312c2ad33",
             "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jdk-8u362-linux-x64.tar.gz.sha256"
           },
           "timestamp": "2023-02-17T17:05:00Z",
@@ -64,7 +64,7 @@
           "package": {
             "name": "bisheng-jre-8u362-linux-x64.tar.gz",
             "link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u362-linux-x64.tar.gz",
-            "sha265sum": "d24c661f7eea470d30fb249289e8dc78f1188d0f7200cca074756f28c669d39b",
+            "sha265sum": "aceb7c490ac79468a235b2bce2271c6310a8deb6c9f5b8937176bea54c38539d",
             "sha256sum_link": "https://mirrors.huaweicloud.com/kunpeng/archive/compiler/bisheng_jdk/bisheng-jre-8u362-linux-x64.tar.gz.sha256"
           },
           "timestamp": "2023-02-17T17:05:00Z",
