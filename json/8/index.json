@@ -2,7 +2,6 @@
   "indexes": [
   ],
   "releases": [
-    "jdk_8u452b12.json",
     "jdk_8u432b11.json",
     "jdk_8u422b12.json",
     "jdk_8u412b11.json",
